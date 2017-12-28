@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Catatan Amalku</string>
+    <string name="create_sample_data">Create Sample Data</string>
+    <string name="delete_all_notes">Delete ALL </string>
+    <string name="are_you_sure">Are You Sure ?</string>
+    <string name="all_deleted">All Deleted</string>
+    <string name="enter_note_here">enter_note</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="new_note">New </string>
+    <string name="note_updated">amal_updated</string>
+    <string name="note_deleted">amal_deleted</string>
+    <string name="action_delete">action_delete</string>
+    <string name="amalku">amalku</string>
+</resources>
